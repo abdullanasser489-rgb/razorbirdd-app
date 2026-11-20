@@ -1,0 +1,2 @@
+
+C:\Users\abdul\Desktop\razorbirdd-app>powershell-comand"set-content -path 'wrangler.jsonc'-value '{\"name\":\razorbirdd-app\",\main\":\"src/index.ts\",\"compatibility_date\":\"2025-09-01\",\"observability\":{bindings\":[{ \"name\": \"SPINE\"class_name\":"Spine\"}] \"migrations\": [{ \"tag\": \"v1\",\"new_sqlite_classes\":[\"Spine\"] }],\"r2_buckets\":[{ \"binding_name\":\"razorbirdd-bucket\"}], \"assets\":{ \"directory\": \"./public\" } }'"
